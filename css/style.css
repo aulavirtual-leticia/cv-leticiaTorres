@@ -1,0 +1,62 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: crimson;
+    text-align: center;
+    margin-top: 0px;
+    background-color: bisque
+};
+header{
+    text-align: center;
+ }
+/*llamado de un a un identificador -id-*/
+#banner{
+    background-image: url(https://img.freepik.com/fotos-premium/papel-tapiz-rosa-blanco-flor-rosa_994023-97832.jpg);/*Imágen de fondo extraida de internet*/
+    background-size: cover; /* Ajusta la imagen para cubrir todo el banner */
+    background-position: center; /* Centra la imagen en el banner */
+}
+
+#banner img {
+    display: block; /*Esto significa que ocupa todo el ancho disponible de su contenedor,*/
+    margin: 0 auto;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: left;
+    text-align: center;
+    background-color: bisque;
+    color: crimson;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    text-align: center;
+    background-color: bisque;
+    color: blue; 
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+    text-decoration-color: beige;
+    background-color: rgb(26, 16, 5);}
+body{
+    background-color: rgb(241, 225, 210);
+}
+ main {
+
+     font-family: Arial, Helvetica, sans-serif;
+     text-overflow: clip;
+
+    }
+    /*llamado de una clase*/
+.texto{
+    color: rgb(100, 7, 7);
+    text-align: center;
+    font-size-adjust: 30px;
+    background-size: 45px;
+    background-color: bisque;
+}
+ 
